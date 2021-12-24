@@ -1,0 +1,6 @@
+shape,size,color,surface,thickness,target
+circular,large,light,smooth,thick,malignant
+circular,large,light,irregular,thick,malignant
+oval,large,dark,smooth,thin,benign
+oval,large,light,irregular,thick,malignant
+circular,small,light,smooth,thick,benign
